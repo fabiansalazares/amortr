@@ -1,11 +1,11 @@
 Package: amortr
 Type: Package
-Title: What the Package Does in One 'Title Case' Line
-Version: 1.0
-Date: 2024-05-01
-Author: Your Name
-Maintainer: Your Name <your@email.com>
-Description: One paragraph description of what the package does as one or more full sentences.
+Title: Debt amortization schedules.
+Version: 0.1
+Date: 2024-05-17
+Author: Miguel Fabián Salazar
+Maintainer: Miguel Fabián Salazar <miguel@fabiansalazar.es>
+Description: amortr includes a collection of debt amortization schedules calculation functions.
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.12)
 LinkingTo: 
@@ -16,3 +16,4 @@ Suggests:
     xml2
 Config/testthat/edition: 3
 RoxygenNote: 7.3.1
+Encoding: UTF-8
