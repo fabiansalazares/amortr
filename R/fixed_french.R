@@ -33,4 +33,5 @@ fixed_french <- function(
     .optional_parameters,
     .truncate_month_day
   )
+  
 }

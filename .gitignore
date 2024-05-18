@@ -7,3 +7,5 @@ man/*
 /man
 src/*.dll
 src/*.o
+*.o
+*.dll
