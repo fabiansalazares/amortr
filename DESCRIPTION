@@ -5,7 +5,7 @@ Version: 0.1
 Date: 2024-05-17
 Author: Miguel Fabián Salazar
 Maintainer: Miguel Fabián Salazar <miguel@fabiansalazar.es>
-Description: amortr includes a collection of debt amortization schedules calculation functions.
+Description: amortr includes a collection of debt amortization schedules calculation functions. Underlying functions are written in C++ and linked using Rcpp bindings in order to be optimal for use in large parallelized computations.
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.12)
 LinkingTo: 
